@@ -12,6 +12,12 @@ Sobre nosso grupo no Slack também se aplica o nosso [código de conduta](https:
 
 Para entrar no grupo acesse [esse link](https://ctgroups.herokuapp.com/), adicione seu email e aguarde um convite na caixa de entrada ou na aba de Spam (pode acontecer).
 
+## Sumário
+
+* [O que acontece no Slack, fica no Slack](#o-que-acontece-no-slack-fica-no-slack)
+* [Regras gerais](#regras-gerais)
+* [Moderadores do Slack](#moderadores-do-slack)
+
 ## O que acontece no Slack, fica no Slack
 
 O Slack é um canal fechado de comunicação e nem todos os assuntos nós gostaríamos que morressem por lá. Existem coisas que são discutidas no nosso grupo que poderiam contribuir com a vida de outras pessoas.
