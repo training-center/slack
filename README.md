@@ -12,6 +12,14 @@ Sobre nosso grupo no Slack também se aplica o nosso [código de conduta](https:
 
 Para entrar no grupo acesse [esse link](https://ctgroups.herokuapp.com/), adicione seu email e aguarde um convite na caixa de entrada ou na aba de Spam (pode acontecer).
 
+## Regras gerais
+
+- não utilize `@channel` por nada em sua vida, ao invés disso utilize o `@here`
+- siga nosso código de conduta
+- quando quiser discutir sobre um assunto inicie uma [thread](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd), não deixe a conversa perdida nos canais
+- siga nosso código de conduta
+- divirta-se
+
 ## Moderadores do Slack
 
 Qualquer problema que você tiver em nosso chat, pode relatar diretamente aos moderadores:
