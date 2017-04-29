@@ -12,6 +12,16 @@ Sobre nosso grupo no Slack também se aplica o nosso [código de conduta](https:
 
 Para entrar no grupo acesse [esse link](https://ctgroups.herokuapp.com/), adicione seu email e aguarde um convite na caixa de entrada ou na aba de Spam (pode acontecer).
 
+## O que acontece no Slack, fica no Slack
+
+O Slack é um canal fechado de comunicação e nem todos os assuntos nós gostaríamos que morressem por lá. Existem coisas que são discutidas no nosso grupo que poderiam contribuir com a vida de outras pessoas.
+
+Se você encontrar um assunto desses rolando e quiser contribuir com outras pessoas, pode escrever um post para nosso Blog (https://medium.com/trainingcenter) ou mesmo podemos fazer um Hangout e deixarmos a conversa pública.
+
+Queremos mudar a vida das pessoas, mas não somente das que fazem parde de nossa comunidade.
+
+Espalhe a palavra ao mundo!
+
 ## Regras gerais
 
 - não utilize `@channel` por nada em sua vida, ao invés disso utilize o `@here`
