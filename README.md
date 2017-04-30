@@ -41,6 +41,7 @@ Espalhe a palavra ao mundo!
 Qualquer problema que você tiver em nosso chat, pode relatar diretamente aos moderadores:
 
 - [Adeonir Kohl](https://github.com/adeonir)
+- [Aline Bastos](https://github.com/alinebastos)
 - [Erik Patekoski](https://github.com/patota)
 - [Mariano Jhuninhu](https://github.com/MarianoJhuninhu)
 - [William Oliveira](https://github.com/woliveiras)
