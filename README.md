@@ -43,7 +43,6 @@ Espalhe a palavra ao mundo!
 - não utilize `@channel` por nada em sua vida, ao invés disso utilize o `@here`
 - siga nosso código de conduta
 - quando quiser discutir sobre um assunto inicie uma [thread](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd), não deixe a conversa perdida nos canais
-- siga nosso código de conduta
 - divirta-se
 
 ## Moderadores do Slack
