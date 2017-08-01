@@ -12,6 +12,8 @@
   <li><a href="https://www.reddit.com/r/trainingcentr/" target="_blank" title="Participe do nosso forum no Reddit">Participe do nosso forum no Reddit</a></li>
 </ul>
 
+Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+
 No Training Center utilizamos o Slack como principal canal de comunicação com as pessoas envolvidas no projeto.
 
 É lá que discutimos sobre mudanças no projeto buscando a opinião de todos e também é lá que conversamos desde desenvolvimento de software até como adestrar um cachorro.
