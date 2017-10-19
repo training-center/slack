@@ -48,7 +48,7 @@ Espalhe a palavra ao mundo!
 
 ## Moderadores do Slack
 
-Qualquer problema que você tiver em nosso chat, pode relatar diretamente aos moderadores que estão [listados aqui](https://github.com/training-center/sobre/blob/master/CONDUCT.md).
+Qualquer problema que você tiver em nosso chat, pode relatar diretamente aos moderadores que estão [listados aqui](https://github.com/training-center/sobre/blob/master/CONDUCT.md#moderadores).
 
 ---
 
