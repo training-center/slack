@@ -48,14 +48,7 @@ Espalhe a palavra ao mundo!
 
 ## Moderadores do Slack
 
-Qualquer problema que você tiver em nosso chat, pode relatar diretamente aos moderadores:
-
-- [Adeonir Kohl](https://github.com/adeonir)
-- [Aline Bastos](https://github.com/alinebastos)
-- [Beatriz Rodrigues](https://github.com/biavilasb)
-- [Erik Patekoski](https://github.com/patota)
-- [Mariano Jhuninhu](https://github.com/MarianoJhuninhu)
-- [William Oliveira](https://github.com/woliveiras)
+Qualquer problema que você tiver em nosso chat, pode relatar diretamente aos moderadores que estão [listados aqui](https://github.com/training-center/sobre/blob/master/CONDUCT.md#moderadores).
 
 ---
 
