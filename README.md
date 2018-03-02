@@ -35,7 +35,7 @@ O Slack é um canal fechado de comunicação e nem todos os assuntos nós gostar
 
 Se você encontrar um assunto desses rolando e quiser contribuir com outras pessoas, pode escrever um post para nosso Blog (https://medium.com/trainingcenter) ou mesmo podemos fazer um Hangout e deixarmos a conversa pública.
 
-Queremos mudar a vida das pessoas, mas não somente das que fazem parde de nossa comunidade.
+Queremos mudar a vida das pessoas, mas não somente das que fazem parte de nossa comunidade.
 
 Espalhe a palavra ao mundo!
 
